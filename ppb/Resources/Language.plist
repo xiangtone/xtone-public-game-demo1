@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PET_ROLE_BUY_TIPS</key>
+	<string>您的樱桃不足，是否开启新形象？</string>
+	<key>BUBBLE_BUY_TIPS</key>
+	<string>神奇的气泡，一次机会免费获得气泡，每个可以帮您5秒内免受钉子伤害，是否确认使用？</string>
+	<key>BUBBLE_USE</key>
+	<string>点击使用</string>
+	<key>SCORES_TOTAL</key>
+	<string>分数: %d</string>
+	<key>PET_PRICE_TIPS</key>
+	<string>需要樱桃%d个。</string>
+	<key>BUBBLE_FEE_TIPS</key>
+	<string>您将通过短信支付信息费4元，由运营商代收。</string>
+</dict>
+</plist>
